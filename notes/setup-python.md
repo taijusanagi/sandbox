@@ -35,3 +35,9 @@ conda remove --name sandbox --all -y
 !python --version
 !pip freeze > colab_requirements.txt
 ```
+
+## Other Python Setups
+
+### Dive into Deep Learning
+
+https://d2l.ai/chapter_installation/index.html
